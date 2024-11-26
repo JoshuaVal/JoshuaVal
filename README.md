@@ -7,7 +7,7 @@
   <li> - 📫 How to reach me www.linkedin.com/in/josdevv </li>
   <li> - 😄 Pronouns: Josh </li>
 </ul>
-<code><img src=""></img></code>
+
 
 
 <!---
