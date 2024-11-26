@@ -8,6 +8,8 @@
   <li> - 😄 Pronouns: Josh </li>
 </ul>
 
+![Bienvenido]([dirección_de_la_imagen](https://github.com/JoshuaVal/JoshuaVal/blob/main/IF%20YOU%20CAN%20IMAGINE%20IT%2C%20YOU%20CAN%20PROGRAM%20IT.png))
+
 
 
 <!---
